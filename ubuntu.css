@@ -19,7 +19,7 @@
  */
 /* GLOBALS */
 stage {
-  font-family: Cantarell, Sans-Serif;
+  font-family: Roboto, Cantarell, Sans-Serif;
   font-size: 11pt;
   color: #eeeeec; }
 
@@ -1764,7 +1764,7 @@ StScrollBar {
     background-color: #ffffff; }
 
 .login-dialog-username, .user-widget-label {
-  color: #004256;
+  color: #ffffff;
   font-size: 120%;
   font-weight: bold;
   text-align: left;
@@ -1951,7 +1951,7 @@ StScrollBar {
 
 /* default ubuntu font */
 stage {
-  font-family: Ubuntu, Cantarell, Sans-Serif;
+  font-family: Roboto, Ubuntu, Cantarell, Sans-Serif;
 }
 
 /* switch colors */
