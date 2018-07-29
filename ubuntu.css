@@ -1856,7 +1856,8 @@ StScrollBar {
 
 #lockDialogGroup {
   background: #000000 url(file:///usr/share/backgrounds/mountains-blur.jpg);
-  background-repeat: cover; }
+  background-repeat: no-repeat;
+  background-size: cover; }
 
 #screenShieldNotifications StButton#vhandle, #screenShieldNotifications StButton#hhandle {
   background-color: rgba(63, 63, 57, 0.3); }
