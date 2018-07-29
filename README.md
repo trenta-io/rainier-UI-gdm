@@ -1,8 +1,6 @@
 # ![Rainier UI](https://i.imgur.com/lJfpp40.png) GDM Theme
 Rainier UI GDM3 Theme based on Ocean Blue GDM3 theme by taeven
-# Screenshots
-![single user](screenshots/singleUser.png?raw=true "user login")
-![Multiple user](screenshots/multipleUser.png?raw=true "multi user login")
+# Screenshot
 ![Login screen](screenshots/singleLogin.png?raw=true "Login screen")
 
 # Setup Guide
