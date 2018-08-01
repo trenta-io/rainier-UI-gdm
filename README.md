@@ -15,3 +15,7 @@ Rainier UI GDM3 Theme based on Ocean Blue GDM3 theme by taeven
 
 * Restart the pc 
 ```reboot -f```
+
+Based on Ocean-Blue-GDM3 by Vaibhav Sisodiya (taeven)
+
+Modified for Trenta.io by Kevin Doyle (KevDoy)
